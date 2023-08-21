@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: raul-
+Build-Jdk: 17.0.3
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: by.element
+Main-Class: ${start-class}
+
